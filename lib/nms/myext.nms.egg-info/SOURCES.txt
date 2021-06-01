@@ -1,0 +1,7 @@
+setup.py
+myext.nms.egg-info/PKG-INFO
+myext.nms.egg-info/SOURCES.txt
+myext.nms.egg-info/dependency_links.txt
+myext.nms.egg-info/top_level.txt
+src/nms.cpp
+src/nms_cuda.cpp
